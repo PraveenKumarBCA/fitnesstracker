@@ -128,7 +128,7 @@ const Homepage=()=>{
     <section className="d-lg-flex">
         <section className="bg-image">
             {/* <img src=".//images/NewHomepageBG.jpg" alt="">  */}
-            <video src="videos/homepageBG.mp4" muted ></video>
+            <video src="videos/homepageBG.mp4" muted autoPlay></video>
         </section>
         <section className="join-us-mainBox">
             <p className="Homepage-quote-text"><span className="text-danger">PUSH HARDER</span> THAN YESTERDAY</p>
